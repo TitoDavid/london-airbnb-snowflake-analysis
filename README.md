@@ -70,8 +70,6 @@ All prices are median nightly prices for listings with a price of 10 to 2,000.
 
 ## Visuals
 
-## Visuals
-
 ![Priced listings per borough](screenshots/listings_by_borough.png)
 *Number of priced listings analysed per borough, the sample size behind each median.*
 
